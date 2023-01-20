@@ -1,0 +1,64 @@
+.navbar {
+    background-color: black;
+    height: 100px;
+}
+
+div >h1{
+    color: aliceblue;
+    text-align: center;
+    float:right ;
+    margin-right: 600px;
+    padding: 10px;
+    position: relative;
+}
+
+div >img{
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.containerleft{
+    background-color: black;
+    height:600px;
+    width:400px;
+    margin: 50px;
+    border-radius: 30px;
+    
+}
+
+.inputBar input{
+background-color: black;
+width: 600px;
+height: 30px;
+margin-right: 50px;
+margin-top: 50px;
+position: relative;
+
+}
+
+.containerSmall{
+    background-color: black;
+    width: 200px;
+    height: 130px;
+    border-radius: 20px;
+    margin: 5px;
+    float: left;
+    margin-top: 50px;
+    position: relative;
+
+
+}
+
+.containerBottom{
+    clear: both;
+    background-color: black;
+    width: 620px;
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+
+
